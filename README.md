@@ -1,4 +1,3 @@
-نبذة عنا
 Hello Friend ....
 My name is Abdulrahman Alsayed Hussain, a student of computer sciences in HIMIT Interested in cyber security and CTF challenges, i want to be a Bug Bounty Hunter
 <!---
